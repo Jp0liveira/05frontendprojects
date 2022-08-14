@@ -80,6 +80,7 @@ section p{
     margin: 2vh 2vh 2vh 8vh;
     min-width: 305px;
     max-width: 800px;
+    text-align: justify;
 }
 
 section.image{
