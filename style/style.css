@@ -29,7 +29,6 @@ html, body{
     color: var(--cor0);
     height: 100vh;
 }
-
 p{
     font-family: var(--font-texto);
     color: var(--cor0);
@@ -78,9 +77,6 @@ section{
 }
 section p{
     margin: 2vh 2vh 2vh 8vh;
-    min-width: 305px;
-    max-width: 800px;
-    text-align: justify;
 }
 
 section.image{
