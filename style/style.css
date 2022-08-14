@@ -91,11 +91,13 @@ section.image > p{
 section#img1{
     background-image: url("../images/02sectioncordejpoliveira_joaopaulooliveira.jpg");
     background-position: left center;
+    background-attachment: fixed;
     background-size: cover;
 }
 section#img2{
     background-image: url("../images/03sectioncordejpoliveira_joaopaulooliveira.jpg");
     background-position: left center;
+    background-attachment: fixed;
     background-size: cover;
 }
 footer p{
