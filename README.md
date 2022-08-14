@@ -8,10 +8,8 @@
     Front End
     UFPA
 --->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-" alt="Badge Html5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-" alt="Badge CSS3"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Badge Html5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Badge CSS3"/>
 
 <img src="https://user-images.githubusercontent.com/106454449/184542608-2d684610-ebbc-42e7-851c-fcba9e5e9fcc.png" alt="foto home proeto cordel moderno, João Paulo Oliveira_Jpoliveira, UFPA">
 <br>
