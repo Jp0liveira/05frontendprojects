@@ -4,6 +4,7 @@
     João Paulo Oliveira
     JpOliveira
     Ciência da Computação
+    Web Developer
     Desenvolvedor Web
     Front End
     UFPA
