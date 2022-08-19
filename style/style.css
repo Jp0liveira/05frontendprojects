@@ -29,12 +29,6 @@ html, body{
     color: var(--cor0);
     height: 100vh;
 }
-
-::-webtik-scrollbar{
-    width: 0px;
-    height: 0px
-}
-
 p{
     font-family: var(--font-texto);
     color: var(--cor0);
